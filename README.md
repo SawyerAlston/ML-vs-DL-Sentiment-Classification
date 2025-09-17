@@ -45,7 +45,7 @@ This project uses a variety of libraries, for compatibility please see the [requ
 pip install -r requirements.txt
 ```
 ### 3. Reduce Dataset (performance optional)
-Replace cell 3 of `Data Preprocessing` section of the [notebook](../main/Notebook(s)/twitter_sentiment_analysis.ipynb) with the following updated code:
+Replace cell 3 of `Data Preprocessing` section of the [notebook](../main/Notebook(s)/ML_vs_DL_classification_comparison.ipynb) with the following updated code:
 ```python
 from sklearn.model_selection import train_test_split
 
@@ -80,7 +80,7 @@ Feel free to check all around, tinker, modify, or play/learn from the project ho
 ## 📁 Repo Structure
 ```bash
 ├── notebook(s)
-│   ├── twitter_sentiment_analysis.ipynb
+│   ├── ML_vs_DL_classification_comparison.ipynb.ipynb
 ├── plots
     ├── (various model benchmark images)
 ├── README.md
