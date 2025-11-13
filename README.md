@@ -80,7 +80,7 @@ Feel free to check all around, tinker, modify, or play/learn from the project ho
 ## 📁 Repo Structure
 ```bash
 ├── notebook(s)
-│   ├── ML_vs_DL_classification_comparison.ipynb.ipynb
+│   ├── ML_vs_DL_classification_comparison.ipynb
 ├── plots
     ├── (various model benchmark images)
 ├── README.md
